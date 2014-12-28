@@ -1,2 +1,0 @@
-exports.DATABASE_URL = "postgres://nrgszvwaukbymh:JsOO8365Ca7TWjtaq5VRmgFiHK@ec2-54-83-27-26.compute-1.amazonaws.com:5432/d7n57mnea9unb3";
-exports.TABLE_NAME = 'tfi';
