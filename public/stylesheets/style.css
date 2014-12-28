@@ -1,0 +1,38 @@
+body{
+	background-color: #000;
+	color: #ffffff;
+	font-size: 1.6em;
+}
+
+a {  
+}
+
+h1, h2, h3{
+	font-family: a;
+}
+
+
+h1{
+	background: url(public/images/text.png) no-repeat;
+	background-position: center;
+}
+
+
+.absolute{
+	position: absolute;
+	top: 10%;
+	left: 0;
+	right: 0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-justify: distribute;
+	z-index: 11;
+	font-family: a;
+	font-size: 6vw;
+}
+
+.message{
+	font-size: 1.8em;
+}
