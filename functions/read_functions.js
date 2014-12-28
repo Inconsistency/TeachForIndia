@@ -95,6 +95,7 @@ exports.read_all = function(request, response){
 }
 
 exports.generic = function(request, response){
+	//handle invalid post requests
 	response.setHeader("Content-Type", "text/html");
 	response.end("Nothing Doing");
 }

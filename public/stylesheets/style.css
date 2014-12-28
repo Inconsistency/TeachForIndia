@@ -11,13 +11,6 @@ h1, h2, h3{
 	font-family: a;
 }
 
-
-h1{
-	background: url(public/images/text.png) no-repeat;
-	background-position: center;
-}
-
-
 .absolute{
 	position: absolute;
 	top: 10%;

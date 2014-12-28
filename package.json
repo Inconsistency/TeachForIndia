@@ -1,17 +1,21 @@
 {
   "name": "TeachForIndia-Mini",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A very simple nodejs api",
   "author": "bgauraang",
   "dependencies": {
     "express": "~4.9.0",
     "pg": "4.x",
     "body-parser": "latest"
-     },
-     "engines": {
+  },
+  "engines": {
     "node": "0.10.x"
   },
   "scripts": {
   "start": "node index.js"
-}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/gb-tfi.git"
+  }
 }
