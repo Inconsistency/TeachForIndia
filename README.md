@@ -8,7 +8,7 @@ Using the API:
 To add new records - 
 
 
-PUT /put HTTP/1.1
+a) PUT /put HTTP/1.1
 
 Host: teachforsarincasm.com
 
@@ -16,7 +16,7 @@ Content-Type: application/x-www-form-urlencoded
 
 title=inser-title&author=insert-author&description=insert-description
 
-To retrieve records -
+b) To retrieve records -
 
 1) To fetch the complete data from the database
 
